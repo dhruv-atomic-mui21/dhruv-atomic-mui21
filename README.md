@@ -1,6 +1,10 @@
+<p align="center">
+  <a href="https://github.com/dhruv-atomic-mui21"><img src="https://komarev.com/ghpvc/?username=dhruv-atomic-mui21&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /></a>
+</p>
+
 # Hi there 👋 I'm Dhruv Chudasama
 
-**I’m a BCA undergraduate student passionate about AI/ML and full-stack development, always exploring new technologies and building impactful projects.**
+**I’m a BCA 2nd Year student passionate about AI/ML and full-stack development, always exploring new technologies and building impactful projects.**
 
 ---
 
@@ -27,15 +31,15 @@ Here are some highlights:
 
 ## 📫 Connect with Me
 
-(www.linkedin.com/in/dhruv-chudasama-2237b7316)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhruv-chudasama-2237b7316)
 
 ---
 
 ## 📊 GitHub Stats
 
+![Dhruv's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhruv-atomic-mui21&show_icons=true&theme=radical)
 
-
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhruv-atomic-mui21&layout=compact&theme=radical)
 
 ---
 
