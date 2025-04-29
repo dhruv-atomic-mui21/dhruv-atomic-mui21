@@ -4,7 +4,7 @@
 
 # Hi there 👋 I'm Dhruv Chudasama
 
-**I’m a BCA 2nd Year student passionate about AI/ML and full-stack development, always exploring new technologies and building impactful projects.**
+**I’m a BCA undergraduate student passionate about AI/ML and full-stack development, always exploring new technologies and building impactful projects.**
 
 ---
 
