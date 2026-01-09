@@ -1,51 +1,94 @@
-# Hi there 👋 I'm Dhruv Chudasama
+# Dhruv Chudasama
 
-**I’m a BCA undergraduate student passionate about AI/ML and full-stack development, always exploring new technologies and building impactful projects.**
+## AI / Machine Learning Engineer | BCA Undergraduate
 
-🌐 **Portfolio**: [dhruvchudasama.me](https://dhruvchudasama.me)
-
----
-
-## 🚀 Skills & Technologies
-
-- **Languages:** Python, JavaScript, C++, Java, SQL  
-- **Web & Frameworks:** Flask, React.js, Django  
-- **AI/ML & Data Science:** TensorFlow, scikit-learn, NLTK, dlib, NumPy, pandas, matplotlib  
-- **Databases & Tools:** MongoDB, Git, GitHub, VS Code, JetBrains IDEs, Sublime Text, Google Colab, NVIDIA NIM (Build), Kaggle, Hugging Face
+AI/ML-focused developer with strong foundations in Python, deep learning, and applied machine learning. Experienced in building end-to-end ML projects spanning data preprocessing, model training, evaluation, and backend integration. Currently focused on transitioning from academic and guided projects to production-oriented, research-aligned systems suitable for real-world deployment and open-source contribution.
 
 ---
 
-## 🔭 Projects
+## Technical Focus
 
-> Explore all my repositories on GitHub: [dhruv-atomic-mui21](https://github.com/dhruv-atomic-mui21?tab=repositories)
+* Machine Learning & Deep Learning
 
-Here are some highlights:
+  * Supervised learning, model evaluation, experimentation
+  * CNN-based vision models, sequence models, attention mechanisms
+* Computer Vision
 
-- **🌐 myportfolio** *(Private)*: My personal portfolio website showcasing my journey, skills, and projects.  
-- **📁 mypythonprojects** *(Public)*: A collection of beginner-level Python projects created before diving into AI/ML.  
-- **🧠 NLPWORKSPACE** *(Public)*: A modular NLP Notepad offering advanced text analysis through an intuitive UI.  
-- **🗣️ bhai-chat** *(Public)*: A conversational chatbot project.  
-- **📌 careercraftpython** *(Public)*: A suite of Python scripts for automating career planning tasks.  
-- **🧠 ai-enhanced-taskmanager** *(Public)*: Flask-based app that uses Google’s Gemini AI for smarter task management.  
-- **🛡️ examguardaiml** *(Public)*: AI-driven online proctoring system using Flask and TensorFlow.
+  * Image classification, face detection/recognition, image captioning
+* NLP
 
----
+  * Text preprocessing, classical ML pipelines, modular NLP systems
+* ML Systems & Integration
 
-## 📫 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/dhruv-chudasama-2237b7316](https://www.linkedin.com/in/dhruv-chudasama-ai-ml-developer/))
+  * FastAPI / Flask backends for ML inference
+  * Reproducible training pipelines, experiment tracking concepts
 
 ---
 
-## 📊 GitHub Stats
+## Skills
 
-![Dhruv's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhruv-atomic-mui21&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhruv-atomic-mui21&layout=compact&theme=radical)
+**Languages**
+
+* Python, JavaScript, C++, Java, SQL
+
+**AI / ML & Data Science**
+
+* PyTorch, TensorFlow, scikit-learn
+* NumPy, pandas, matplotlib
+* NLTK, dlib
+
+**Web & Frameworks**
+
+* Flask, Django, React.js
+
+**Databases & Tools**
+
+* MongoDB
+* Git, GitHub
+* VS Code, JetBrains IDEs
+* Google Colab, Kaggle, Hugging Face
 
 ---
 
-## ⚡ Fun Facts
+## Selected Projects
 
-- I love building things from scratch and automating everyday problems with code.  
-- I'm constantly exploring how AI can be used to enhance education and productivity.  
-- I'm the kind of person who reads research papers for fun!
+> A complete list of projects and experiments is available in my repositories.
+
+* **Image Captioning System**
+  End-to-end deep learning project using CNN encoders (ResNet/VGG) and LSTM decoders with attention. Includes modular architecture, configurable training, and evaluation using BLEU metrics.
+
+* **AI-Based Online Proctoring System**
+  Flask-based system leveraging computer vision and deep learning for exam monitoring and integrity enforcement.
+
+* **NLP Workspace**
+  Modular NLP environment for text analysis with a structured backend and interactive interface.
+
+* **AI-Enhanced Task Manager**
+  Flask application integrating large language model APIs for intelligent task organization and prioritization.
+
+* **Python Automation Toolkit**
+  Collection of Python utilities focused on workflow and career-related automation.
+
+---
+
+## Current Learning & Direction
+
+* Advancing toward ML Engineer / AI Engineer roles
+* Building production-grade ML projects with clean architecture
+* Improving system design, experiment management, and evaluation rigor
+* Preparing for open-source contributions and long-term research-oriented work
+
+---
+
+## Links
+
+* **Portfolio:** [https://dhruvchudasama.me](https://dhruvchudasama.me)
+* **GitHub:** [https://github.com/dhruv-atomic-mui21](https://github.com/dhruv-atomic-mui21)
+* **LinkedIn:** [https://www.linkedin.com/](https://www.linkedin.com/)
+
+---
+
+## Notes
+
+* Strong preference for clean, reproducible code and well-documented experiments
+* Interested in AI applications in education, productivity, and developer tooling
