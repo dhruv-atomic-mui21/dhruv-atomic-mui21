@@ -82,9 +82,9 @@ AI/ML-focused developer with strong foundations in Python, deep learning, and ap
 
 ## Links
 
-* **Portfolio:** [https://dhruvchudasama.me](https://dhruvchudasama.me)
-* **GitHub:** [https://github.com/dhruv-atomic-mui21](https://github.com/dhruv-atomic-mui21)
-* **LinkedIn:** [https://www.linkedin.com/](https://www.linkedin.com/)
+* **Portfolio:** [dhruvchudasama.me](https://dhruvchudasama.me)
+* **GitHub:** [mygithub](https://github.com/dhruv-atomic-mui21)
+* **LinkedIn:** [mylinkdin]([https://www.linkedin.com/](https://www.linkedin.com/in/dhruv-chudasama-ai-ml-developer/))
 
 ---
 
