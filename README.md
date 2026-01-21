@@ -87,9 +87,8 @@ MongoDB • Git • GitHub • VS Code • Colab • Kaggle • Hugging Face
 ---
 
 ## Selected Projects
-
-<div align="center">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0b335028-1d3d-4ee5-b5b3-a111f71aa7e0" width="360" />
+<div>
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7b282ec6-fcc3-4600-90a7-2c3140549f58" width="100" align="right">
 </div>
 
 **Image Captioning System**  
