@@ -3,14 +3,6 @@
 Made by [Dhruv](https://dhruvchudasama.me)
 
 # Dhruv Chudasama
-
-<a href="https://github.com/dhruv-atomic-mui21">
-  <img src="https://forthebadge.com/images/badges/open-source.svg" width="140" />
-</a>
-<a href="https://github.com/dhruv-atomic-mui21">
-  <img src="https://forthebadge.com/images/badges/made-with-python.svg" width="180" />
-</a>
-
 </div>
 
 ---
