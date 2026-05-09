@@ -79,13 +79,14 @@ Not interested in tutorial projects. Building things that are either production-
 ---
 
 ## GitHub Stats
+
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dhruv-atomic-mui21&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=9e9e9e&icon_color=4493f8" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dhruv-atomic-mui21&show)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruv-atomic-mui21&layout=compact&langs_count=8&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=9e9e9e" />
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhruv-atomic-mui21&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=9e9e9e&langs_count=8)
 
-<img height="180em" src="https://streak-stats.demolab.com?user=dhruv-atomic-mui21&theme=dark&hide_border=true&background=0d1117&stroke=4493f8&ring=4493f8&fire=ff6b35&currStreakLabel=ffffff&sideLabels=9e9e9e" />
+![GitHub Streak](https://streak-stats.demolab.com/?user=dhruv-atomic-mui21&theme=dark&hide_border=true&background=0d1117&stroke=4493f8&ring=4493f8&fire=ff6b35&currStreakLabel=ffffff&sideLabels=9e9e9e)
 
 </div>
 
