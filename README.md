@@ -1,144 +1,113 @@
 <div align="center">
 
-Made by [Dhruv](https://dhruvchudasama.me)
+```
+██████╗ ██╗  ██╗██████╗ ██╗   ██╗██╗   ██╗
+██╔══██╗██║  ██║██╔══██╗██║   ██║██║   ██║
+██║  ██║███████║██████╔╝██║   ██║██║   ██║
+██║  ██║██╔══██║██╔══██╗██║   ██║╚██╗ ██╔╝
+██████╔╝██║  ██║██║  ██║╚██████╔╝ ╚████╔╝ 
+╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝   ╚═══╝  
+```
 
-# Dhruv Chudasama
-</div>
+### ML Engineer · Systems Programmer · Open Source Contributor
 
----
-
-<div align="center">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="320" />
-</div>
-
-<div align="center">
-
-## AI / Machine Learning Engineer | BCA Undergraduate
-
-AI/ML-focused developer with strong foundations in Python, deep learning, and applied machine learning. Experienced in end-to-end ML workflows: data preprocessing, model training, evaluation, and backend integration. Currently transitioning from academic and guided projects toward production-grade, research-aligned systems suitable for deployment and open-source contribution.
+[![Portfolio](https://img.shields.io/badge/Portfolio-dhruvchudasama.me-000000?style=flat-square&logo=vercel&logoColor=white)](https://dhruvchudasama.me)
+[![GitHub](https://img.shields.io/badge/GitHub-dhruv--atomic--mui21-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/dhruv-atomic-mui21)
+[![GSoC](https://img.shields.io/badge/GSoC_2026-Applicant-4285F4?style=flat-square&logo=google&logoColor=white)](https://summerofcode.withgoogle.com)
 
 </div>
 
 ---
 
-## Menu
-- [Technical Focus](#technical-focus)
-- [Skills](#skills)
-- [Selected Projects](#selected-projects)
-- [Current Learning & Direction](#current-learning--direction)
-- [Connect With Me](#connect-with-me)
+## About
+
+CS student pushing into ML research, systems programming, and open-source. Currently deep in GSoC 2026 applications with active contributions to **Kornia** (Rust-based computer vision). My work sits at the intersection of low-level performance and high-level AI — Rust for inference pipelines, Python for research, TypeScript for interfaces.
+
+Not interested in tutorial projects. Building things that are either production-grade or research-grade.
 
 ---
 
-## Technical Focus
+## Current Focus
 
-<img align="right" width="90" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/1a797f46-efe4-41e6-9e75-5303e1bbcbfa" />
-
-**Machine Learning & Deep Learning**  
-Supervised learning, model evaluation, CNNs, sequence models, attention mechanisms, and experimentation-driven development.
-
-<img align="right" width="90" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/29fd6286-4e7b-4d6c-818f-c4765d5e39a9" />
-
-**Computer Vision**  
-Image classification, face detection and recognition, and vision-based monitoring systems using modern DL architectures.
-
-<img align="right" width="90" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/67f477ed-6624-42da-99f0-1a7b1a16eecb" />
-
-**Natural Language Processing**  
-Text preprocessing, classical ML pipelines, and modular NLP systems for applied text analytics.
-
-<img align="right" width="90" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/398b19b1-9aae-4c1f-8bc0-d172a2c08d68" />
-
-**ML Systems & Integration**  
-Flask/FastAPI inference services, reproducible training pipelines, experiment tracking, and deployment-oriented design.
+| Area | What I am building |
+|---|---|
+| **GSoC 2026** | Real-time VLM inference pipeline in Rust for Kornia — ONNX/TensorRT backend, BLIP-2 & Qwen-VL |
+| **Deepfake Detection** | Hybrid CNN-Transformer (`AdaptiveDeepfakeDetector`) with multi-head attention and supervised contrastive learning |
+| **Developer Tooling** | DevHub — GitHub Actions pipeline ingesting GitHub/Kaggle/LinkedIn/X activity, generating social content via LLM, delivering via GitHub Issues |
+| **RAG Systems** | LangGraph + Qdrant hybrid retrieval for Kubeflow's agentic RAG infrastructure |
 
 ---
 
-## Skills
+## Technical Stack
 
-### Languages
-<img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,sql" />
+**ML / AI**
 
-Python • C++ • Java • JavaScript • SQL
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 
-### AI / ML & Data Science
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,numpy,pandas" />
+**Systems**
 
-PyTorch • TensorFlow • scikit-learn • NumPy • pandas • matplotlib • NLTK • dlib
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
-### Web & Frameworks
-<img src="https://skillicons.dev/icons?i=flask,django,react" />
+**Web / Infra**
 
-Flask • Django • React.js
-
-### Databases & Tools
-<img src="https://skillicons.dev/icons?i=mongodb,git,github,vscode" />
-
-MongoDB • Git • GitHub • VS Code • Colab • Kaggle • Hugging Face
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
 ---
 
 ## Selected Projects
-<div>
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7b282ec6-fcc3-4600-90a7-2c3140549f58" width="100" align="right">
-</div>
 
-**Image Captioning System**  
-CNN encoder (ResNet/VGG) + LSTM with attention. Modular training pipeline with BLEU-based evaluation.
+**[kornia-vlm-ffi](https://github.com/dhruv-atomic-mui21/cornia-vlm-ffi)** — Rust FFI bindings for VLM inference. Part of active Kornia GSoC 2026 proposal. ONNX runtime backend targeting Bubbaloop deployment.
 
-**AI-Based Online Proctoring System**  
-Flask-based CV system for exam monitoring and integrity enforcement.
+**[langraph-qdrant-rag](https://github.com/dhruv-atomic-mui21/langraph-quandrant-rag)** — LangGraph agent with 6-node architecture over Qdrant vector store. Hybrid BM25 + dense retrieval, KFP ingestion pipelines, KServe deployment.
 
-**NLP Workspace**  
-Structured NLP experimentation environment with reusable preprocessing and modeling components.
+**[llm-context-forge](https://github.com/dhruv-atomic-mui21/llm-context-forge-py)** — Context window management library for LLMs, available in both Python and TypeScript.
 
-**AI-Enhanced Task Manager**  
-Task management system integrating LLM APIs for intelligent prioritization.
+**[devhub](https://github.com/dhruv-atomic-mui21/devhub)** — Automated developer branding system. Hub-and-spoke architecture with Next.js portfolio as hub, GitHub Actions orchestration, OpenRouter for content generation.
 
-**Python Automation Toolkit**  
-Utility-focused Python scripts for workflow and productivity automation.
+**[medical-image-analysis](https://github.com/dhruv-atomic-mui21/medical-image-analysis)** — CV pipeline for medical imaging. Classification and segmentation on clinical datasets.
+
+**[atom-simulation](https://github.com/dhruv-atomic-mui21/atom-simulation)** — C++ atomic reaction simulator. Built for performance, not convenience.
 
 ---
 
-## Current Learning & Direction
-
-<img align="right" width="120" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7b282ec6-fcc3-4600-90a7-2c3140549f58" />
-
-Focused on ML Engineer / AI Engineer roles with emphasis on:
-- Production-grade ML systems
-- Clean architecture and reproducibility
-- Experiment management and evaluation rigor
-- Open-source collaboration and research-aligned work
-
----
-
-## Connect With Me
+## GitHub Stats
 
 <div align="center">
 
-<a href="https://dhruvchudasama.me">
-  <img src="https://skillicons.dev/icons?i=html" width="50" />
-</a>
-<a href="https://github.com/dhruv-atomic-mui21">
-  <img src="https://skillicons.dev/icons?i=github" width="50" />
-</a>
-<a href="https://www.linkedin.com/in/dhruv-chudasama-ai-ml-developer/">
-  <img src="https://skillicons.dev/icons?i=linkedin" width="50" />
-</a>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dhruv-atomic-mui21&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=9e9e9e&icon_color=4493f8)
 
-**Portfolio · GitHub · LinkedIn**
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhruv-atomic-mui21&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=9e9e9e&langs_count=8)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=dhruv-atomic-mui21&theme=dark&hide_border=true&background=0d1117&stroke=4493f8&ring=4493f8&fire=ff6b35&currStreakLabel=ffffff&sideLabels=9e9e9e)
 
 </div>
 
 ---
 
+## Open Source
+
+pursuited **GSoC 2026** with the following organizations:
+
+- **Kornia** — Rust-based real-time VLM inference on edge hardware (primary candidate)
+- **Kubeflow** — Agentic RAG system with LangGraph and KFP integration
+- **PyTorch Forecasting** — Time series improvements
+
+Pre-GSoC contributions in progress. If you maintain an open-source project in CV, ML infra, or systems-level AI — I am interested.
+
+---
+
 <div align="center">
 
-## Thanks for Visiting
+*Building in public. Opinions are my own. PRs are welcome.*
 
-Made by [Dhruv Chudasama](https://dhruvchudasama.me)
-
-Strong preference for clean, reproducible code and well-documented experiments.  
-Interested in AI applications in education, productivity, and developer tooling.
+![Visitor Count](https://komarev.com/ghpvc/?username=dhruv-atomic-mui21&color=4493f8&style=flat-square&label=profile+views)
 
 </div>
